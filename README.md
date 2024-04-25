@@ -1,12 +1,12 @@
 ### Добро пожаловать в мой GitHub!
 
-Работаю в IT-сфере более 15 лет (техподдержка/HelpDesk).
+Нахожусь в IT-сфере более 15 лет (техподдержка/HelpDesk).
 В 2009 получил степень бакалавра компьютерных наук в университете города Гуэлф (Онтарио, Канада). 
 В 2024 закончил 10-месячные курсы "Java-разработчик" в Яндекс.Практикуме.
 
 
 
-Работаю с Java Core, Java Spring Framework, Spring Boot, Git, SQL, Apache Maven, Docker
+:computer: Работаю с Java Core, Java Spring Framework, Spring Boot, Git, SQL, Apache Maven, Docker
 
 <!--
 **vladrassvet/vladrassvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
